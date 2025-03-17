@@ -2,7 +2,7 @@
 
 
 
-📌 **A simple CLI tool to track expenses easily!**
+📌 **A simple and basic CLI tool to track expenses easily!**
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/VedantKulkarni05/SpendTrack-CLI?color=blue&style=flat-square)  
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg?style=flat-square)
